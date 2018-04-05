@@ -13,13 +13,13 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 2px solid #02d10f;
 }
 
 .AppTitle {
     display: flex;
     width: 25vw;
-    border-right: 2px solid #ccc;
+    border-right: 2px solid #02d10f;
     justify-content: center;
     box-sizing: border-box;
     padding: 20px;
